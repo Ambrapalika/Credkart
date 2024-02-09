@@ -1,0 +1,14 @@
+2024-02-09 22:48:47,343 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 22:48:47,343 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 22:48:47,422 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 22:48:47,496 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 22:48:51,451 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 22:48:51,473 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 22:48:51,572 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 
+2024-02-09 22:51:26,879 - INFO - root  - test_UserLogin001 - 35- Testcase test_UserLogin001 is started 
+2024-02-09 22:51:26,879 - INFO - root  - test_UserLogin001 - 36- Opening browser 
+2024-02-09 22:51:26,960 - INFO - root  - test_UserLogin001 - 42-  Entering Username-->Credencetest@test.com 
+2024-02-09 22:51:27,013 - INFO - root  - test_UserLogin001 - 46-  Entering Password-->Credence@123 
+2024-02-09 22:51:31,266 - INFO - root  - test_UserLogin001 - 51- Click on login button 
+2024-02-09 22:51:31,281 - INFO - root  - test_UserLogin001 - 58- Testcase test_UserLogin001 is passed 
+2024-02-09 22:51:31,377 - INFO - root  - test_UserLogin001 - 65- Testcase test_UserLogin001 is completed 

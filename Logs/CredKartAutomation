@@ -1,0 +1,37 @@
+2024-01-28 08:11:50,762 - INFO - root  - test_UserLogin001 - 34- Testcase test_UserLogin001 is started
+2024-01-28 08:11:50,762 - INFO - root  - test_UserLogin001 - 35- Opening browser
+2024-01-28 08:11:50,906 - INFO - root  - test_UserLogin001 - 41-  Entering Username-->Credencetest@test.com
+2024-01-28 08:11:51,012 - INFO - root  - test_UserLogin001 - 45-  Entering Password-->Credence@123
+2024-01-28 08:11:52,286 - INFO - root  - test_UserLogin001 - 50- Click on login button
+2024-01-28 08:11:52,305 - INFO - root  - test_UserLogin001 - 57- Testcase test_UserLogin001 is passed
+2024-01-28 08:11:52,401 - INFO - root  - test_UserLogin001 - 64- Testcase test_UserLogin001 is completed
+2024-01-28 08:13:07,044 - INFO - root  - test_UserLogin001 - 34- Testcase test_UserLogin001 is started
+2024-01-28 08:13:07,044 - INFO - root  - test_UserLogin001 - 35- Opening browser
+2024-01-28 08:13:08,903 - INFO - root  - test_UserLogin001 - 41-  Entering Username-->Credencetest@test.com
+2024-01-28 08:13:13,584 - INFO - root  - test_UserLogin001 - 45-  Entering Password-->Credence@123
+2024-01-28 08:13:15,573 - INFO - root  - test_UserLogin001 - 50- Click on login button
+2024-01-28 08:13:15,631 - INFO - root  - test_UserLogin001 - 57- Testcase test_UserLogin001 is passed
+2024-01-28 08:13:16,436 - INFO - root  - test_UserLogin001 - 64- Testcase test_UserLogin001 is completed
+2024-01-28 08:17:28,785 - INFO - root  - test_UserLogin001 - 34- Testcase test_UserLogin001 is started
+2024-01-28 08:17:28,786 - INFO - root  - test_UserLogin001 - 35- Opening browser
+2024-01-28 08:17:30,066 - INFO - root  - test_UserLogin001 - 41-  Entering Username-->Credencetest@test.com
+2024-01-28 08:17:30,783 - INFO - root  - test_UserLogin001 - 45-  Entering Password-->Credence@123
+2024-01-28 08:17:32,807 - INFO - root  - test_UserLogin001 - 50- Click on login button
+2024-01-28 08:17:32,853 - INFO - root  - test_UserLogin001 - 57- Testcase test_UserLogin001 is passed
+2024-01-28 08:17:33,667 - INFO - root  - test_UserLogin001 - 64- Testcase test_UserLogin001 is completed
+2024-01-28 08:17:47,453 - WARNING - selenium.webdriver.common.selenium_manager  - run - 135- The geckodriver version (0.33.0) detected in PATH at C:\Users\HP\AppData\Local\Programs\Python\Python311\Scripts\geckodriver.exe might not be compatible with the detected firefox version (122.0.0.8783); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-28 08:17:47,456 - WARNING - selenium.webdriver.common.selenium_manager  - run - 135- The geckodriver version (0.33.0) detected in PATH at C:\Users\HP\AppData\Local\Programs\Python\Python311\Scripts\geckodriver.exe might not be compatible with the detected firefox version (122.0.0.8783); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-28 08:18:06,532 - INFO - root  - test_UserLogin001 - 34- Testcase test_UserLogin001 is started
+2024-01-28 08:18:06,533 - INFO - root  - test_UserLogin001 - 35- Opening browser
+2024-01-28 08:18:07,477 - INFO - root  - test_UserLogin001 - 41-  Entering Username-->Credencetest@test.com
+2024-01-28 08:18:07,583 - INFO - root  - test_UserLogin001 - 45-  Entering Password-->Credence@123
+2024-01-28 08:18:08,968 - INFO - root  - test_UserLogin001 - 50- Click on login button
+2024-01-28 08:18:09,322 - INFO - root  - test_UserLogin001 - 57- Testcase test_UserLogin001 is passed
+2024-01-28 08:18:09,550 - INFO - root  - test_UserLogin001 - 64- Testcase test_UserLogin001 is completed
+2024-01-28 08:18:31,122 - INFO - root  - test_UserLogin001 - 34- Testcase test_UserLogin001 is started
+2024-01-28 08:18:31,123 - INFO - root  - test_UserLogin001 - 35- Opening browser
+2024-01-28 08:18:31,841 - INFO - root  - test_UserLogin001 - 41-  Entering Username-->Credencetest@test.com
+2024-01-28 08:18:33,282 - INFO - root  - test_UserLogin001 - 45-  Entering Password-->Credence@123
+2024-01-28 08:18:37,343 - INFO - root  - test_UserLogin001 - 50- Click on login button
+2024-01-28 08:18:37,603 - INFO - root  - test_UserLogin001 - 57- Testcase test_UserLogin001 is passed
+2024-01-28 08:18:38,496 - INFO - root  - test_UserLogin001 - 64- Testcase test_UserLogin001 is completed
